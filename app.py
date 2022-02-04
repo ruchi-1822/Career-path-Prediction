@@ -150,10 +150,6 @@ import numpy as np
 array = np.array([1,2,3,4])
 array.reshape(-1,1)
 
-'''for i in clms:
-  if(i==(for key in C)):
-    print(i)'''
-
 def inputlist(Name,Contact_Number,Email_address,Logical_quotient_rating, coding_skills_rating, hackathons, public_speaking_points, self_learning_capability, 
        Extra_courses_did, Taken_inputs_from_seniors_or_elders,worked_in_teams_ever,Introvert, reading_and_writing_skills,
        memory_capability_score, smart_or_hard_work, Magement_or_Techinical,
