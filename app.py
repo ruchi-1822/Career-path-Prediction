@@ -263,7 +263,7 @@ def inputlist(Name,Contact_Number,Email_address,Logical_quotient_rating, coding_
   return(output)
 
 def main():
-  st.title(" This application takes input from user about various feilds and predicts the more likely carrer area for the user :)") #simple title for the app
+  st.title(" This WebApp takes input from user about various areas and predicts a suitable carrer area :)") #simple title for the app
   html_temp="""
       <div>
       <h2>Career Prediction ML app</h2>
